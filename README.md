@@ -17,7 +17,7 @@ HTML/CSS for frontend
 How to Use
 Clone the repository: git clone https://github.com/amang2580/ClinicLocator.git
 Deploy the application on a servlet container like Apache Tomcat.
-Access the application at http://localhost:8080/clinic-locator/find-clinics.jsp.
+Access the application at http://localhost:8080/ClinicLocator/index.jsp
 Enter a zip code and click "Find Clinics" to see nearby clinics.
 Future Enhancements
 Add more search filters (services offered, clinic ratings).
